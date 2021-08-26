@@ -35,7 +35,7 @@ public class MyHashMapTest {
 			
 
 		}
-		
+		hashMap1.remove("avoidable");
 		System.out.println(hashMap1);
 		
 
